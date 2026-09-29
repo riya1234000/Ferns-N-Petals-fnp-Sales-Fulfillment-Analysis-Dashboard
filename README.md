@@ -24,7 +24,6 @@ By leveraging Power Query for data ETL (Extract, Transform, Load) and Power Pivo
 
 Microsoft Excel (Data Cleaning, Power Query, Power Pivot, Data Modelling, Pivot Tables, Data Visualization, Slicers, KPI Cards).
 
-## 📄 Project Documentation & Questions
 
 ## 📄 Project Documentation & Questions
 
@@ -56,6 +55,8 @@ No Statistical Correlation: A correlation coefficient of 0.0035 is virtually equ
 Operational Insight: Ordering a higher quantity of items does not result in delayed delivery times. Large-quantity orders are processed, packed, and delivered with the same operational speed as small or single-item orders.
 
 Strategic Takeaway: Fulfillment turnaround time is driven by external factors such as regional delivery location, transit routes, or shipping mode rather than the basket size or item count.
+
+## Steps For Creating the Interactive Project :- 
 
 #  Data Cleaning & Transformation Data Cleaning:
 
