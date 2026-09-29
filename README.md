@@ -24,6 +24,11 @@ By leveraging Power Query for data ETL (Extract, Transform, Load) and Power Pivo
 
 Microsoft Excel (Data Cleaning, Power Query, Power Pivot, Data Modelling, Pivot Tables, Data Visualization, Slicers, KPI Cards).
 
+## 📄 Project Documentation & Questions
+
+## 📄 Project Documentation & Questions
+
+- 📥 [Download Project Questions PDF](https://github.com/riya1234000/Ferns-N-Petals-fnp-Sales-Fulfillment-Analysis-Dashboard/blob/main/Ferns%20and%20Petals%20Sales%20Analysis.pdf)
 
 ## Dashboard interactive 
 
