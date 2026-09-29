@@ -29,6 +29,29 @@ Microsoft Excel (Data Cleaning, Power Query, Power Pivot, Data Modelling, Pivot 
 
 <img src="[https://github.com/riya1234000/Ferns-N-Petals-fnp-Sales-Fulfillment-Analysis-Dashboard/blob/main/Screenshot%202026-09-30%20014242.png]" alt="Image Description" width="1000">
 
+## Order Quantity vs. Delivery Time Analysis
+Objective
+
+To evaluate whether ordering a higher quantity of items leads to longer fulfillment latencies or delivery delays.
+
+Methodology & Calculation
+
+To measure the relationship between order size and fulfillment speed, we calculated the Pearson correlation coefficient between two specific variables:
+
+Quantity (The total number of items ordered per transaction)
+
+Delivery Time (The total turnaround time in days, calculated as the difference between delivery date and order date)
+
+Using the standard Pearson correlation formula, the resulting correlation coefficient is 0.0034781737 (or approximately 0.0035).
+
+Key Findings & Conclusion
+
+No Statistical Correlation: A correlation coefficient of 0.0035 is virtually equal to zero. In data analytics, a value this close to zero indicates that there is no linear relationship between the two variables.
+
+Operational Insight: Ordering a higher quantity of items does not result in delayed delivery times. Large-quantity orders are processed, packed, and delivered with the same operational speed as small or single-item orders.
+
+Strategic Takeaway: Fulfillment turnaround time is driven by external factors such as regional delivery location, transit routes, or shipping mode rather than the basket size or item count.
+
 #  Data Cleaning & Transformation Data Cleaning:
 
 Standardized date and time formats across transactional records.Cleared duplicates, missing values, and validated key integrity across tables.Feature Engineering & Calculated Columns:Month Extraction: Derived Order Month from order dates to track monthly sales performance and peak seasons.   Hour Extraction: Extracted Order Hour and Delivery Hour to pinpoint peak transaction and dispatch windows.   Fulfillment Latency: Computed the total turnaround time (Delivery Time - Order Time) to measure fulfillment speed.   Price Fetching: Integrated the Price column from the PRODUCTS table into the orders context using data modeling relationships/lookups to enable revenue calculations.  
