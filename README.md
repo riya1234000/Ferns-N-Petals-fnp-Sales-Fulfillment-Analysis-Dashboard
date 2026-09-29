@@ -15,6 +15,11 @@ ORDERS: Order transactions, timestamps (order time, delivery time), and core ord
 
 PRODUCTS: Catalog items, categories, and unit price reference data. 
 
+
+## Dashboard interactive 
+
+<img src="[https://github.com/riya1234000/Ferns-N-Petals-fnp-Sales-Fulfillment-Analysis-Dashboard/blob/main/Screenshot%202026-09-30%20014242.png]" alt="Image Description" width="1000">
+
 #  Data Cleaning & Transformation Data Cleaning:
 
 Standardized date and time formats across transactional records.Cleared duplicates, missing values, and validated key integrity across tables.Feature Engineering & Calculated Columns:Month Extraction: Derived Order Month from order dates to track monthly sales performance and peak seasons.   Hour Extraction: Extracted Order Hour and Delivery Hour to pinpoint peak transaction and dispatch windows.   Fulfillment Latency: Computed the total turnaround time (Delivery Time - Order Time) to measure fulfillment speed.   Price Fetching: Integrated the Price column from the PRODUCTS table into the orders context using data modeling relationships/lookups to enable revenue calculations.  
