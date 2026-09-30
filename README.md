@@ -85,7 +85,7 @@ High-level visual metrics display Total Revenue (₹ 35,20,984.00), Total Orders
 Valentine's Day (₹3,31,930) with (9.43%) and Diwali (₹3,13,783) with (8.91%) followed as steady year-round revenue drivers.
 
 Monthly Peak: August delivered the highest revenue share (₹7,37,389) with (20.94%). 
-## Sweets & Festive Hampers Lead Product Categories
+## Colors and Soft Toys Lead Product Categories
 Colors generated the highest category revenue at (₹10,05,645) followed by Soft Toys (₹7,40,831) and Sweets (₹7,33,842).
 
 Category mix highlights strong demand for edible Colors over standard perishable items like Soft Toys during peak months.
